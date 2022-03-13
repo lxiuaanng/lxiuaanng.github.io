@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Node.js on Lxuan&#39;s Blog</title>
+    <link>https://lxiuaanng.github.io/en/tags/node.js/</link>
+    <description>Recent content in Node.js on Lxuan&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>lxiuaanng@qq.com (Lxuan)</managingEditor>
+    <webMaster>lxiuaanng@qq.com (Lxuan)</webMaster>
+    <copyright>©2022, All Rights Reserved</copyright>
+    <lastBuildDate>Sat, 15 Jan 2022 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="https://lxiuaanng.github.io/en/tags/node.js/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>Node.js</title>
+        <link>https://lxiuaanng.github.io/en/posts/node.js/</link>
+        <pubDate>Sat, 15 Jan 2022 00:00:00 +0000</pubDate>
+        <author>lxiuaanng@qq.com (Lxuan)</author>
+        <atom:modified>Sat, 15 Jan 2022 00:00:00 +0000</atom:modified>
+        <guid>https://lxiuaanng.github.io/en/posts/node.js/</guid>
+        <description>&lt;p&gt;&amp;hellip;&amp;hellip;&lt;/p&gt;</description>
+        
+        <dc:creator>Lxuan</dc:creator>
+        <media:content url="https://lxiuaanng.github.io/en/posts/node.js/node.js.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>技术</category>
+            
+          
+            
+              <category>Node.js</category>
+            
+          
+        
+        
+          
+            
+              <category>Node.js</category>
+            
+          
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

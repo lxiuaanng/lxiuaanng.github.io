@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Posts on Lxuan&#39;s Blog</title>
+    <link>https://lxiuaanng.github.io/en/posts/</link>
+    <description>Recent content in Posts on Lxuan&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>lxiuaanng@qq.com (Lxuan)</managingEditor>
+    <webMaster>lxiuaanng@qq.com (Lxuan)</webMaster>
+    <copyright>©2022, All Rights Reserved</copyright>
+    <lastBuildDate>Sat, 15 Jan 2022 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="https://lxiuaanng.github.io/en/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>Node.js</title>
+        <link>https://lxiuaanng.github.io/en/posts/node.js/</link>
+        <pubDate>Sat, 15 Jan 2022 00:00:00 +0000</pubDate>
+        <author>lxiuaanng@qq.com (Lxuan)</author>
+        <atom:modified>Sat, 15 Jan 2022 00:00:00 +0000</atom:modified>
+        <guid>https://lxiuaanng.github.io/en/posts/node.js/</guid>
+        <description>&lt;p&gt;&amp;hellip;&amp;hellip;&lt;/p&gt;</description>
+        
+        <dc:creator>Lxuan</dc:creator>
+        <media:content url="https://lxiuaanng.github.io/en/posts/node.js/node.js.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>技术</category>
+            
+          
+            
+              <category>Node.js</category>
+            
+          
+        
+        
+          
+            
+              <category>Node.js</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>Linux基础命令</title>
+        <link>https://lxiuaanng.github.io/en/posts/linux%E5%9F%BA%E7%A1%80%E5%91%BD%E4%BB%A4/</link>
+        <pubDate>Tue, 14 Dec 2021 00:00:00 +0000</pubDate>
+        <author>lxiuaanng@qq.com (Lxuan)</author>
+        <atom:modified>Tue, 14 Dec 2021 00:00:00 +0000</atom:modified>
+        <guid>https://lxiuaanng.github.io/en/posts/linux%E5%9F%BA%E7%A1%80%E5%91%BD%E4%BB%A4/</guid>
+        <description>&lt;p&gt;最基础命令，入门级水平&lt;br /&gt;
+命令之间相关性差，慎观，慎观。&lt;/p&gt;</description>
+        
+        <dc:creator>Lxuan</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>Linux</category>
+            
+          
+            
+              <category>知识</category>
+            
+          
+        
+        
+          
+            
+              <category>学习</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>HEXO&#43;icarus主题&#43;gitalk评论插件的配置</title>
+        <link>https://lxiuaanng.github.io/en/posts/hexo-icarus%E4%B8%BB%E9%A2%98-gitalk%E8%AF%84%E8%AE%BA%E6%8F%92%E4%BB%B6%E7%9A%84%E9%85%8D%E7%BD%AE/</link>
+        <pubDate>Wed, 13 Oct 2021 16:54:48 +0000</pubDate>
+        <author>lxiuaanng@qq.com (Lxuan)</author>
+        <atom:modified>Wed, 13 Oct 2021 16:54:48 +0000</atom:modified>
+        <guid>https://lxiuaanng.github.io/en/posts/hexo-icarus%E4%B8%BB%E9%A2%98-gitalk%E8%AF%84%E8%AE%BA%E6%8F%92%E4%BB%B6%E7%9A%84%E9%85%8D%E7%BD%AE/</guid>
+        <description>&lt;p&gt;总体分为三步，相比较其他主题需要一些繁琐的配置，icarus就简单很多&lt;/p&gt;</description>
+        
+        <dc:creator>Lxuan</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>HEXO</category>
+            
+          
+            
+              <category>gitalk</category>
+            
+          
+        
+        
+          
+            
+              <category>博客</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>win10配置多个github仓库</title>
+        <link>https://lxiuaanng.github.io/en/posts/win10%E9%85%8D%E7%BD%AE%E5%A4%9A%E4%B8%AAgithub%E4%BB%93%E5%BA%93/</link>
+        <pubDate>Sat, 29 May 2021 00:00:00 +0000</pubDate>
+        <author>lxiuaanng@qq.com (Lxuan)</author>
+        <atom:modified>Sat, 29 May 2021 00:00:00 +0000</atom:modified>
+        <guid>https://lxiuaanng.github.io/en/posts/win10%E9%85%8D%E7%BD%AE%E5%A4%9A%E4%B8%AAgithub%E4%BB%93%E5%BA%93/</guid>
+        <description>相比较上一篇文章，这篇算是有了丢丢进步，好歹会写代码块了，md文件还是要多写写，不然很多格式记不住。这篇文章主要纠正了上一篇的错误，以及写明</description>
+        
+        <dc:creator>Lxuan</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>win10&#43;多仓库配置</category>
+            
+          
+        
+        
+          
+            
+              <category>博客</category>
+            
+          
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
